@@ -10,14 +10,16 @@ The data used in the application is obtained from https://jsonplaceholder.typico
 
 # Frameworks + Libraries used
 
-React JS - JavaScript library for building user interfaces that efficiently updates and renders components in response to data changes, enabling the development of dynamic and interactive web applications.
+* React JS - JavaScript library for building user interfaces that efficiently updates and renders components in response to data changes, enabling the development of dynamic and interactive web applications.
 
-Vite - Vite is a fast and modern build tool for web development that focuses on quick development server start-up, efficient development workflows, and optimized production builds for JavaScript and TypeScript projects.
+* Vite - Vite is a fast and modern build tool for web development that focuses on quick development server start-up, efficient development workflows, and optimized production builds for JavaScript and TypeScript projects.
 
-TailwindCSS - Tailwind CSS is a utility-first CSS framework that provides a set of low-level utility classes, enabling rapid and flexible development of modern and responsive user interfaces.
+* TailwindCSS - Tailwind CSS is a utility-first CSS framework that provides a set of low-level utility classes, enabling rapid and flexible development of modern and responsive user interfaces.
 
 # Optimisations used
 
-Despite a slim probability of mobile device usage for this kind of application, the website is very responsive.
-Reorganized the code to reuse parts and, where needed, import as little as possible.
-The page was created with the least amount of dependencies.
+* Despite a slim probability of mobile device usage for this kind of application, the website is very responsive.
+
+* Reorganized the code to reuse parts and, where needed, import as little as possible.
+
+* The page was created with the least amount of dependencies.
