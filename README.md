@@ -1,8 +1,16 @@
 # AI MODEL WEBSITE
 
-This project has an application capture the nuances of a real-life production application, and shows the various models available, and allows end-users to select and explore any one model. Each model includes its title, provider, description, uses and sample code. This is part of Atlan Frontend Assignment, build using React + Vite + TailwindCSS. This project includes the frontend side only.
+This project has an application that captures the nuances of a real-life production application, and shows the various models available, and allows end-users to select and explore any one model. Each model includes its title, provider, description, uses and sample code. This is part of Atlan Frontend Assignment, build using React + Vite + TailwindCSS. This project includes the frontend side only. It is hosted on Netlify.
 
-The website is hosted on https://65e71e6a8eccdc0c3047c250--resilient-syrniki-e2af52.netlify.app/explore
+Link to the application: https://65e71e6a8eccdc0c3047c250--resilient-syrniki-e2af52.netlify.app/explore
+
+# FEATURES
+
+* This project contains four main pages, one is the home page, the second is the explore page which contains the list of models.
+* Each model can be clicked on and we can get further information about each one of the models. 
+* The third is the most liked models. In this page the models are sorted according to the number of likes. 
+* When we open the assigned to an individual model, we can open like a particular model along with the reason of why we are liking that particular model. That particular reason is then displayed in the model cards along with the number of likes.
+* There is an upload page where the user can upload a model.
 
 # DATA
 
